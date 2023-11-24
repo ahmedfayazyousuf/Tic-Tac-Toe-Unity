@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8ef4f420ed8b1bc4594fa952a4ab7223
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TerminaW05-Bold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2b20fd4c83a83a8468c139bad7415ca8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
